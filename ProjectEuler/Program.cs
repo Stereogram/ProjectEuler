@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ProjectEuler._1;
 
 namespace ProjectEuler
 {
@@ -11,7 +6,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(MultiplesOf3And5.Run(1000));
+            Console.WriteLine(EvenFibonacciNumbers.Run(10));
         }
     }
 }

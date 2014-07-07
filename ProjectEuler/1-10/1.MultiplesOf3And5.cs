@@ -1,5 +1,5 @@
 ﻿
-namespace ProjectEuler._1
+namespace ProjectEuler
 {
     public class MultiplesOf3And5
     {
