@@ -6,7 +6,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(EvenFibonacciNumbers.Run(10));
+            PokerHands a = new PokerHands();
         }
     }
 }
