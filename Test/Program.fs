@@ -5,6 +5,6 @@ module Module
 [<EntryPoint>]
 let main argv = 
     
-    printfn "%d" (SumSquareDifference.Run 10)
+    printfn "%d" (SumSquareDifference.Run 100)
             
     0 // return an integer exit code
