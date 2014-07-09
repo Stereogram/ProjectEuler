@@ -3,7 +3,7 @@ using System;
 
 namespace ProjectEuler
 {
-    public class LargestPrimeFactor
+    public class LargestPrimeFactor//wip
     {
         public static int Run(int max)
         {

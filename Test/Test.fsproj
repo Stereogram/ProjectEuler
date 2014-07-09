@@ -49,6 +49,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <Compile Include="MultiplesOf3And5.fs" />
+    <Compile Include="SumSquareDifference.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <PropertyGroup>

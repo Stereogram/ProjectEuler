@@ -6,7 +6,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(LargestPalindromeProduct.Run());
+            Console.WriteLine(SumSquareDifference.Run());
         }
     }
 }

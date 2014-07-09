@@ -44,6 +44,8 @@
     <Compile Include="1-10\2.EvenFibonacciNumbers.cs" />
     <Compile Include="1-10\1.MultiplesOf3And5.cs" />
     <Compile Include="1-10\3.LargestPrimeFactor.cs" />
+    <Compile Include="1-10\5.SmallestMultiple.cs" />
+    <Compile Include="1-10\6.SumSquareDifference.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
