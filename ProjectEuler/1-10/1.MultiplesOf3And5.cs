@@ -3,10 +3,10 @@ namespace ProjectEuler
 {
     public class MultiplesOf3And5
     {
-        public static int Run(int max)
+        public static int Run()
         {
             int sum = 0;
-            for (int i = 0; i < max; i++)
+            for (int i = 0; i < 1000; i++)
             {
                 if (i%3 == 0 || i%5 == 0)
                     sum += i;

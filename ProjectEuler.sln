@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler", "ProjectEule
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Test", "Test\Test.fsproj", "{00773323-4910-4D37-B518-8622E63F92E9}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonTest", "PythonTest\PythonTest.pyproj", "{73C1E3D2-EBF5-4BF5-9344-3178063AAFF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,8 +23,15 @@ Global
 		{00773323-4910-4D37-B518-8622E63F92E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00773323-4910-4D37-B518-8622E63F92E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00773323-4910-4D37-B518-8622E63F92E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C1E3D2-EBF5-4BF5-9344-3178063AAFF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C1E3D2-EBF5-4BF5-9344-3178063AAFF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C1E3D2-EBF5-4BF5-9344-3178063AAFF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C1E3D2-EBF5-4BF5-9344-3178063AAFF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
 	EndGlobalSection
 EndGlobal

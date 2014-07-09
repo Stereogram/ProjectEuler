@@ -48,6 +48,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1-10\4.LargestPalindromeProduct.cs" />
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>

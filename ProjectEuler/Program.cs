@@ -6,7 +6,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            PokerHands a = new PokerHands();
+            Console.WriteLine(LargestPalindromeProduct.Run());
         }
     }
 }
